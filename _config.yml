@@ -1,8 +1,8 @@
 # Site settings
 title: iLife's Blog
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
-url: 'http://joshgerdes.com/jekyll-uno'
-baseurl: '/jekyll-uno'
+url: 'https://ilife-x.github.io'
+baseurl: '/ilife-x.github.io'
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
@@ -39,5 +39,5 @@ kramdown:
   # do not replace newlines by <br>s
   hard_wrap: false
 
-plugins: ['jekyll-paginate']
+plugins: ['jekyll-paginate','jekyll-gist','jemoji']
 exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'screenshot.png']
