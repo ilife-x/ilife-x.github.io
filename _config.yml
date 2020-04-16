@@ -2,7 +2,7 @@
 title: iLife's Blog
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'https://ilife-x.github.io'
-baseurl: '/ilife-x.github.io'
+baseurl: ''
 # google_analytics: 'UA-XXXXXX-X'
 # disqus_shortname: 'your-disqus-name'
 
