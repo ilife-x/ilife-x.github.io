@@ -8,11 +8,11 @@ baseurl: '/ilife-x.github.io'
 
 author:
   name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
+  email: ilife_x@163.com
+  twitter_username: Lazy_marmot
   facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  github_username:  ilife-x
+  linkedin_username:  
 
 defaults:
   -
