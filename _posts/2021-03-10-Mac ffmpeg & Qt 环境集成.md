@@ -139,7 +139,7 @@ SH/usr/bin/ruby -e "$(curl -fsSL https://cdn.jsdelivr.net/gh/ineo6/homebrew-inst
 
 FFmpeg 安装完成后截图
 
-![截屏2021-03-10 下午11.45.03](/Users/wangxiao/Library/Application Support/typora-user-images/截屏2021-03-10 下午11.45.03.png)
+![截屏2021-03-10 下午11.45.03](/Users/wangxiao/ilife-x/images/ffmpeg_blog/截屏2021-03-10 下午11.45.03.png)
 
 
 
